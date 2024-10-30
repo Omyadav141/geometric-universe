@@ -1,4 +1,9 @@
 Geometric Universe
+
+
+
+
+
 Welcome to the Geometric Universe project! This repository contains HTML and CSS files that demonstrate various geometric designs and patterns.
 
 Project Overview
